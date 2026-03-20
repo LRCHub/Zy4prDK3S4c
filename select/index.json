@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "base_track": "ANTIHERO",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-20T04:57:38.760285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "Teflon Sega",
+      "has_synced": true,
+      "path": "select/01_Antihero_Teflon_Sega.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "The Appleseed Cast",
+      "has_synced": true,
+      "path": "select/02_Antihero_The_Appleseed_Cast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ANTIHERO",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_ANTIHERO_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Antihero (Live at Toyosu Pit 2015)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_Antihero_(Live_at_Toyosu_Pit_2015)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "God Forbid",
+      "has_synced": false,
+      "path": "select/05_Antihero_God_Forbid.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ANTIHERO",
+      "artist": "AViVA",
+      "has_synced": true,
+      "path": "select/06_ANTIHERO_AViVA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Funeral of an Antihero",
+      "artist": "BOI WHAT",
+      "has_synced": true,
+      "path": "select/07_Funeral_of_an_Antihero_BOI_WHAT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "RANJ feat. Clifr",
+      "has_synced": true,
+      "path": "select/08_Antihero_RANJ_feat._Clifr.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "Ranj, Clifr",
+      "has_synced": true,
+      "path": "select/09_Antihero_Ranj,_Clifr.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Antihero",
+      "artist": "Appleseed Cast, The",
+      "has_synced": true,
+      "path": "select/10_Antihero_Appleseed_Cast,_The.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANTIHERO",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_ANTIHERO_DUSTCELL.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ANTIHERO",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_01_ANTIHERO_DUSTCELL.txt",
+      "repo_name": "3o_kVF017aM"
+    }
+  ]
+}
